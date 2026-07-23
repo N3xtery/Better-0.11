@@ -2,5 +2,11 @@
 /res
 /libs
 /obj
+/platform-tools
+/minecraftpe
+build.sh
+konsole.sh
+/jni/Substrate.h
+/jni/minIni
 /jni/libminecraftpe.so
 /jni/libmcpelauncher_tinysubstrate.so

@@ -8,6 +8,7 @@ LOCAL_LDLIBS    := -L$(LOCAL_PATH) -ldl -llog -lstdc++ -lminecraftpe -lmcpelaunc
 LOCAL_SRC_FILES :=                                   \
     main.cpp                                         \
     desc.cpp                                         \
+    minIni/minIni.c                                  \
 
 TARGET_NO_UNDEFINED_LDFLAGS :=
 
